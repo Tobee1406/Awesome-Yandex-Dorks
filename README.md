@@ -14,8 +14,8 @@ A collection of Awesome Yandex Dorks.
 - [Search Operators](#search-operators)
 
 # Search Operators
-| Operator         | Description                         | Syntax                               | Example                           |
-| ---------------- | ----------------------------------- | ------------------------------------ | --------------------------------- |
+| Operator         | Description                       | Syntax                               | Example                           |
+| ---------------- | --------------------------------- | ------------------------------------ | --------------------------------- |
 | !        | Matches the form of the word (case, number, and tense)                               | !&lt;word>   | buy !apples wholesale               |
 | +        | Matches stop words (auxiliary parts of speech, pronouns, and any words that do not add meaning on their own). | +&lt;word>   | work +from home  |
 
